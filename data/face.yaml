@@ -1,0 +1,4 @@
+train: /kaggle/input/facev5/images/train
+val: /kaggle/input/facev5/images/val
+nc: 1
+names: ["face"]
